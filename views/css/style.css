@@ -1,0 +1,43 @@
+body{
+    background-color: #CA0226;
+}
+
+/* NAV  */
+.nav1{
+    margin: auto;
+    margin-top: 50px;
+
+}
+.nav a{
+    color: #ffffff;
+    font-weight: bold;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.bot1 a{
+    color: #CA0226;
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 130px;
+}
+.bot1 i{
+    position: relative;
+    bottom: 30px;
+    left: 100px;
+    color: #CA0226;
+}
+/* NAV FIN */
+
+
+/* ACCUEIL */
+.first4{
+    background-color: #C27E7E;
+    height: 700px;
+    width: 1200px;
+    margin: auto;
+    border-radius: 30px;
+}
+
+/* ACCUEIL FIN */
